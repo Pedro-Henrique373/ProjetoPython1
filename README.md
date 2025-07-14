@@ -5,4 +5,4 @@ O projeto foi realizado com a IDE PyCharm, com a linguagem Python, durante o cur
 -Linguagem Python\
 -Estruturas condicionais\
 -Estruturas de repetição\
--Estruturas de dados (tuplas, listas,dicionários)
+-Estruturas de dados (tuplas, listas, dicionários)
